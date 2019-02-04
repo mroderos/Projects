@@ -1,0 +1,6 @@
+##Background of the project
+For my final project in my programming class, I used machine learning techniques to gain new insights about New York's bike system program. I 
+I initially wanted to predict which features can predict the gender, age and usertype of the riders. I thought that knowing which features are important will be able to improve the program.
+
+##Data
+I chose NYC's bike system data which includes all the trips from 2013 up until the most present time. It has good (and clean!) information from 
